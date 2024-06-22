@@ -1,7 +1,10 @@
+import static java.lang.System.*;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("adidas");
-        System.out.println("nike");
-        System.out.println("New Balance");
+        out.println("adidas");
+        out.println("nike");
+        out.println("New Balance");
+        out.println("Bool Toon")
