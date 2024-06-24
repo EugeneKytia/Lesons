@@ -15,8 +15,15 @@ public class Main {
         System.out.println(result);
         int e = 44;
         int r = 5;
-        result = e%r;
+        result = e % r;
         System.out.println(result);
-
+        int y = 40;
+        int t = 5;
+        result = y / t;
+        System.out.println(result);
+        int o = 80;
+        int l = 10;
+        result = o * l;
+        System.out.println(result);
     }
 }
