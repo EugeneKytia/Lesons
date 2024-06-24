@@ -25,5 +25,17 @@ public class Main {
         int l = 10;
         result = o * l;
         System.out.println(result);
+        String hello = "Hello";
+        String world = "World";
+        String Eugene = "Eugene";
+        String resultA;
+        resultA = hello + " " + world + " " + Eugene;
+        System.out.println(resultA);
+        String mm = "10";
+        String tt = "07";
+        String rr = "1995";
+        String resultB;
+        resultB = mm + " " + tt + " " + rr;
+        System.out.println(resultB);
     }
 }
